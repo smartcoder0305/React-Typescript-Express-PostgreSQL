@@ -1,0 +1,20 @@
+
+.MuiDataGrid-iconButtonContainer {
+    display: none !important;
+}
+
+.MuiDataGrid-menuIcon {
+    display: none !important;
+}
+
+.MuiDataGrid-columnHeaderTitle {
+    font-weight: bold !important;
+}
+
+.MuiDataGrid-columnHeader {
+    border-bottom: 3px solid black;
+}
+
+td {
+    overflow: hidden;
+}
