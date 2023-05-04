@@ -9,3 +9,5 @@ Functionalities:<br/>
 -Pagination(First, Prev, Next, Last)<br/>
 -Sort(ASC/DESC)<br/>
 -Filter(by column)<br/>
+
+git tag <React>
